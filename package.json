@@ -4,7 +4,8 @@
   "scripts": {
     "compile": "./node_modules/typescript/bin/tsc",
     "tsc": "node ./node_modules/typescript/lib/tsc.js",
-    "lint-wxss": "stylelint './**/*.wxss' --fix"
+    "lint-wxss": "stylelint './**/*.wxss' --fix",
+    "sub-pull": "git submodule foreach git pull"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.5.0",

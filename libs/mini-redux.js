@@ -1,5 +1,0 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-const redux = require("redux");
-console.log(redux);
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWluaS1yZWR1eC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIm1pbmktcmVkdXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFDQSwrQkFBZ0M7QUFDaEMsT0FBTyxDQUFDLEdBQUcsQ0FBQyxLQUFLLENBQUMsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8vIG1pbmktcmVkdXhcbmltcG9ydCByZWR1eCA9IHJlcXVpcmUoJ3JlZHV4Jyk7XG5jb25zb2xlLmxvZyhyZWR1eCk7XG4iXX0=
