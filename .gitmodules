@@ -1,0 +1,3 @@
+[submodule "libs/mini-redux"]
+	path = libs/mini-redux
+	url = https://github.com/ibullet-chzn/mini-redux.git
