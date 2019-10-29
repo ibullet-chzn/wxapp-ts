@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "faker",
+  "usingComponents": {
+    "index": "../../components/index/index"
+  }
+}

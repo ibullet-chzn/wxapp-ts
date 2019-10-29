@@ -1,0 +1,4 @@
+<view>faker</view>
+<index>
+  <view slot="slot">slot</view>
+</index>
