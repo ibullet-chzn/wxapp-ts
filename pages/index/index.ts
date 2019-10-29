@@ -2,6 +2,10 @@
 //获取应用实例
 import { IMyApp } from '../../app'
 
+import redux from '../../libs/mini-redux';
+
+console.log(redux);
+
 const app = getApp<IMyApp>()
 
 Page({
