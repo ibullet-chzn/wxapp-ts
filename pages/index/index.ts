@@ -2,7 +2,7 @@
 //获取应用实例
 import { IMyApp } from '../../app'
 
-import redux from '../../libs/mini-redux';
+import redux from '../../libs/mini-redux/index';
 
 console.log(redux);
 
@@ -11,6 +11,7 @@ const app = getApp<IMyApp>()
 Page({
   data: {
     motto: '点击 “编译” 以构建',
+    redux,
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo'),
